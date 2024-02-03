@@ -8,10 +8,10 @@
 <a href="#">
   <img align="left" alt="Medina's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/senariusxd">
+<a href="#">
   <img align="left" alt="Medina's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/d.medina_1911?igsh=MWlkOXZmOGc3N2E0Yw">
+<a href="#">
   <img align="left" alt="Medina's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="#">
