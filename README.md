@@ -21,6 +21,8 @@
   <img align="left" alt="Medina's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+
 <br />
 
 Hi, I'm Daniel Medina, a Full Stack Developer 🚀 from Cuba.
