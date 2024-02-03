@@ -11,7 +11,7 @@
 <a href="https://t.me/senariusxd">
   <img align="left" alt="Medina's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/d.medina_1911/">
+<a href="https://www.instagram.com/d.medina_1911?igsh=MWlkOXZmOGc3N2E0Yw">
   <img align="left" alt="Medina's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="#">
