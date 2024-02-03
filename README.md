@@ -50,8 +50,3 @@ Hi, I'm Daniel Medina, a Full Stack Developer 🚀 from Cuba.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Daniel Medina&show_icons=true&theme=gotham" alt="danielmedina" />
 
 </details>
-
------
-Credits: [DanielMedina](https://github.com/senarius12)
-
-Last Edited on: 30/08/2020
